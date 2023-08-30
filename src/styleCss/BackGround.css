@@ -1,0 +1,6 @@
+.bgcolor{
+    position: fixed;
+    background-color: red;
+    right: 0;
+    bottom: 30vh;
+}
